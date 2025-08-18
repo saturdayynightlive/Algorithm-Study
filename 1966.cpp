@@ -7,7 +7,7 @@ int main(){
     for(int i = 0; i < a; i++){
         int n, m;
         int count=0;
-        bool jack=false;
+        bool jack=false; //제껴짐
         cin >> n >> m;
         vector<int> v(n);
         for(int j = 0; j < v.size(); j++){
