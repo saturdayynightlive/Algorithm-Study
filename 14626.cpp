@@ -20,7 +20,6 @@ int main(){
         }
     }
     isbn+= s[s.length()-1]-'0';
-    cout<<isbn << endl;
     if(isjjak){
         for(int k = 0; k < 10; k++){
             if ((isbn+3*k) % 10 == 0) {
