@@ -13,9 +13,7 @@
 
 Based on UCPC seminar 2025.
 
-PS: Problem Solving 
-SWE: Software Engineer 
-UCPC: Union of Clubs for Programming Contests
+
 --------------------------------
 
 #My Thoughts
